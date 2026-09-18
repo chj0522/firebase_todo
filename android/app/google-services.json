@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621880185030",
+    "project_id": "firetodo-c24ef",
+    "storage_bucket": "firetodo-c24ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621880185030:android:0a1bb98a55bf67fd51c7c7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_todo_list_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeV-GnIzUoH0A0lj-_NW4ipexMZjLGiXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
