@@ -1,2 +1,17 @@
 # Google App Engine generated folder
 appengine-generated/
+
+# Flutter/Dart generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+coverage/
+
+# IDE and local files
+.idea/
+*.iml
+.DS_Store
+
+# Firebase local logs
+firebase-debug.log
